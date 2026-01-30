@@ -22,5 +22,5 @@ This section contains projects and coursework completed as part of my ongoing de
 |:--- |:--- |:---
 |Business Analytics with Python | Python (Google Colab) | EDA, regression, classification and prediction projects. <br>AI and deeplearning data mining projects <br/>|
 |Business Analystics with Excel | Microsoft Excel | Forecasting sales data, dashboarding and data cleaning. |
-|Data Scince with R| RStudio | Statistical & predictive analysis.|
+|Data Science with R| RStudio | Statistical & predictive analysis.|
 
