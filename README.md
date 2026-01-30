@@ -11,6 +11,7 @@ These projects present a comprehensive view of the data science project lifecycl
 | Project  |  Domain  | Key Skills Demonstrated |
 |:---|:---|:---|
 | Market Capitalization Analysis| Finance | EDA, Tuned Random Forest Regressor (86% Test R-Squared), Executive Summary Compiling, Clinical Dashboarding (Google Looker Studio)|
+| Portfolio Optimization | Investment | Neural Networks (Project still under development) |
      
 ----
 
